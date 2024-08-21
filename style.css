@@ -1,0 +1,278 @@
+    body {
+    margin: 0px;
+    font-family: 'Poppins';
+
+}
+
+#navbar {
+    background-color: #F8F8F8;
+    height: 180px;
+}
+
+.navleft {
+    display: inline;
+}
+
+.navright {
+    display: inline;
+    float: right;
+    height: 30px;
+    margin: 40px;
+}
+
+.logoim {
+    width: 100px;
+    height: 80px;
+
+}
+
+.topnav a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Poppins';
+    font-size: 15px;
+    height: 30px;
+    width: 213px;
+    padding: 10;
+
+
+}
+
+.navmain {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    font-family: 'Poppins';
+    position: sticky;
+    width: 100%;
+    padding: 0;
+}
+
+.navmain li {
+    height: 30px;
+    width: 80px;
+    padding: 20px;
+
+}
+
+.navmain a {
+    text-decoration: none;
+    display: inline;
+    color: black;
+}
+
+.navmain a:hover {
+    background-color: white;
+}
+
+.content {
+    padding-top: 15px;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conlef {
+    float: left;
+    width: 830px;
+
+}
+
+.image15 {
+    width: 830px;
+    height: 500px;
+
+}
+
+.conrig {
+    align-content: center;
+    background-color: rgba(255, 255,255, .5);
+   
+    width: 50%;
+    height: 300px;
+    position: absolute;
+    margin-left: 700px;
+    text-align: center;
+
+}
+
+.speak {
+    background-color: #4B2A63;
+    color: white;
+    height: 80px;
+    width: 400px;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-size: 20px;
+}
+#centercon {
+    text-align: center;
+}
+.assbar{
+    display: flex;
+ justify-content: center;
+     
+}
+.assbar div{
+    padding: 40px;
+    justify-items: center;
+}
+.assbar p{
+    font-size: 10px;
+    width: 80px;
+
+}
+.seccon{
+    display: flex;
+    height: fit-content;
+    text-align: center;
+    float: left;
+    align-items: center;
+}
+.seclef{
+    position: absolute;
+    align-items: center;
+    background-color: rgba(255, 255,255, .5);
+    filter: opacity(80);
+    width: 500px;
+    height: 500px;
+    margin-left: 25px;
+    
+    
+}
+.secpara{
+align-content:center;
+width: 200px;
+margin-left: 150px;
+font-size: 10px;
+}
+.secrig{
+    float: right;
+    width: 70%;
+    margin-left: 323px;
+    
+}
+#mulimgfr{
+    display: inline-flex;
+    justify-content: center; 
+    text-align: center;  
+}
+#mulimgfr h5{
+    align-items: center;
+    font-size: 20px;
+    color:  #4B2A63;
+}
+.thim{
+ padding:30px;
+
+}
+.thipa{
+   width: 600px;
+   font-size: 10.5px; 
+   text-align: center;
+   padding-top: 20px;
+   display: block;
+   margin-left: 400px;
+
+}
+.fourcon{
+    display: inline-block;
+
+}
+.fouimg{ 
+    width: 900px;
+    float: left ;
+    margin-left: 60px;
+    padding-top: 20px;
+    
+}
+.frirow{
+ display: inline-flex;
+}
+.secrow{
+    display: inline-flex;
+}
+.foucon{
+    float: right;
+    position: absolute;
+    width: 700px;
+    height: 400px;
+    text-align: center;
+margin-left: 650px;
+background-color: rgba(255, 255,255, .5);
+margin-top: 50px;
+align-content: center;
+}
+.rigcon4{
+align-content: center;
+
+}
+.rigcon4 p{
+    font-size: 12px;
+    width: 600px;
+    margin-left: 50px;
+}
+.imgali{
+    display: inline-flex;
+   align-content: center;
+}
+.sixcon{
+    display: flex;
+    justify-content: center;
+}
+.profile{
+    display:inline-flex;
+    margin-top:20px;
+}
+.formpage {
+    text-align: center;
+    margin-left: -440px;
+    padding: 30px;
+       
+}
+
+input{
+    width: 250px;
+    height: 40px;
+    border:none;
+    border-bottom: 1px solid ;
+    outline: none;
+}
+.footer{
+    display:inline-block;
+    height: 350px;
+    width: 1423px;
+
+}
+.boxfoo{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 40px;
+    
+    
+}
+.foolef {
+    align-content: center;
+}
+.parafoo {
+   
+}
+.media{
+    display: inline;
+    margin-top:100px;
+    
+}
+.foocen{
+    align-content: center;
+    margin-left: 300px;
+
+}
+.foocen ul{
+list-style-type: none;
+padding: 0px;
+
+}
+.detail{
+    align-content: center;
+    margin-left: 300px;
+}
